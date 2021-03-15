@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @veducha...
+- 👋 Hi, I’m veducha
 - 👀 I’m interested in mathematics, data analysis and software development
 - 🌱 I’m currently learning soliton theory and integrable systems.
 - 💞️ I’m looking to collaborate on programming projects.
